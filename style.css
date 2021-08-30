@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Besley';  
+}
+
+b {
+  color: red;
+}
+
+
+.linha {
+  margin: 8px;
+  display: flex;
+}
+
+.linha div {
+  margin: 8px
+}
+
+h1 {
+  margin: 16px
+}
+
+.endereco-input {
+  width: 600px;
+}
+
+.submit {
+  cursor: pointer;
+  margin: 16px;
+  background-color: #CCC;
+  width: 70px;
+  text-align: center;
+}
